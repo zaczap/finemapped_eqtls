@@ -1,0 +1,10 @@
+Package: finemappedEqtls
+Title: Multi-population eQTL data for six populations in the 1000 Genomes cohort
+Version: 0.0.0.9000
+Authors@R: person("Zachary", "Zappala", email = "zappala@stanford.edu", role = c("aut", "cre"))
+Description: What the package does (one paragraph).
+Depends:
+    R (>= 3.2.3), cowplot (>= 0.6.1), ggplot2 (>= 2.1.0), data.table (>= 1.9.6)
+License: What license is it under?
+LazyData: true
+RoxygenNote: 5.0.1.9000
